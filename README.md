@@ -7,14 +7,6 @@ Welcome to Recipe Finder, a C++ project where you can add, manage, search, and o
 ✅ List all saved recipes
 ✅ Store and manage recipes using appropriate DSA (like Linked Lists, Trees, Hash Tables, etc.)
 
-📁 Project Structure
-📦 Recipe-Finder
-├── main.cpp
-├── recipe.cpp
-├── recipe.h
-├── utils.cpp
-├── utils.h
-└── README.md
 
 🧠 Data Structures Used
 Linked List – To store a dynamic list of recipes
